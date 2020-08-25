@@ -1,0 +1,11 @@
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\obj\Debug\netcoreapp2.1\ExercicioClasses5.csprojAssemblyReference.cache
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\obj\Debug\netcoreapp2.1\ExercicioClasses5.csproj.CoreCompileInputs.cache
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\obj\Debug\netcoreapp2.1\ExercicioClasses5.AssemblyInfoInputs.cache
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\obj\Debug\netcoreapp2.1\ExercicioClasses5.AssemblyInfo.cs
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\bin\Debug\netcoreapp2.1\ExercicioClasses5.deps.json
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\bin\Debug\netcoreapp2.1\ExercicioClasses5.runtimeconfig.json
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\bin\Debug\netcoreapp2.1\ExercicioClasses5.runtimeconfig.dev.json
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\bin\Debug\netcoreapp2.1\ExercicioClasses5.dll
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\bin\Debug\netcoreapp2.1\ExercicioClasses5.pdb
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\obj\Debug\netcoreapp2.1\ExercicioClasses5.dll
+C:\Users\Andie\Documents\csharp\ExercicioClasses5\ExercicioClasses5\obj\Debug\netcoreapp2.1\ExercicioClasses5.pdb
